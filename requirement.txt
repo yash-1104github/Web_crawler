@@ -1,0 +1,5 @@
+ install selenium==4.0.0
+ install beautifulsoup4==4.11.1
+ install requests==2.28.1
+ install fake_useragent==0.1.11
+
